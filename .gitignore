@@ -1,0 +1,18 @@
+# Ignore Python, environment, and secret files
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+# VS Code
+.vscode/
+# Conda
+*.conda
+*.env
+# Jupyter
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
