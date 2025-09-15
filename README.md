@@ -1,6 +1,6 @@
 # FineTuningChunkingStrategy
 
-This is a starter Python project for experimenting with fine-tuning and chunking strategies.
+This  Python project compares chunking strategies using cosine simiarity across mulitiple pre-processing and hybrid stratgies
 
 ## Project Structure
 - `requirements.txt` — Python dependencies
